@@ -7889,4 +7889,54 @@ SEL421_PowerCalculatorService Initializing
 [2/5/2019 22:54:10]                  VAY         VBY         VCY
 
 
-[2/5/2019 22:54:10] MAG(kV)  |   317.017     313.135  
+[2/5/2019 22:54:10] MAG(kV)  |   317.017     313.135  [2/5/2019 10:54:34 PM] 
+
+*******************************************************************************
+
+SEL421_PowerCalculatorService Initializing
+
+     System Time: 2019-02-06 06:54:34.863 UTC
+
+    Current Path: C:\Users\niezj\Documents\openECA Projects\SEL421_P...\Service
+
+    Machine Name: NIE-T
+
+      OS Version: Microsoft Windows NT 6.2.9200.0
+
+    Product Name: Windows 8.1
+
+  Working Memory: 32.5039 MiB
+
+  Execution Mode: 32-bit
+
+      Processors: 4
+
+  GC Server Mode: False
+
+ GC Latency Mode: Interactive
+
+ Process Account: WORKGROUP\SYSTEM
+
+*******************************************************************************
+
+[2/5/2019 10:54:35 PM] Remote client connected - NT AUTHORITY\SYSTEM from NIE-T.
+
+
+[2/5/2019 10:54:39 PM] Attempting connection to tcp://localhost:6190...
+
+[2/5/2019 10:54:39 PM] Attempting command channel connection to publisher...
+
+[2/5/2019 10:54:39 PM] Connection established.
+
+[2/5/2019 10:54:39 PM] Data subscriber command channel connection to publisher was established.
+
+[2/5/2019 10:54:39 PM] Success code received in response to server command "MetaDataRefresh": latest meta-data received.
+
+[2/5/2019 10:54:39 PM] Received a total of 172 records spanning 5 tables of meta-data that was uncompressed and deserialized in 34.02 milliseconds...
+
+[2/5/2019 10:54:39 PM] Success code received in response to server command "Subscribe": Client subscribed as compact unsynchronized with 24 signals.
+
+[2/5/2019 10:56:58 PM] 100,008 measurements have been processed so far...
+
+[2/5/2019 10:59:17 PM] 200,016 measurements have been processed so far...
+
