@@ -1,0 +1,44 @@
+category SEL421
+Inputs {
+    FloatingPoint Double IAWPM
+    FloatingPoint Double IAWPA
+    FloatingPoint Double IBWPM
+    FloatingPoint Double IBWPA
+    FloatingPoint Double ICWPM
+    FloatingPoint Double ICWPA
+    FloatingPoint Double IAXPM
+    FloatingPoint Double IAXPA
+    FloatingPoint Double IBXPM
+    FloatingPoint Double IBXPA
+    FloatingPoint Double ICXPM
+    FloatingPoint Double ICXPA
+    FloatingPoint Double VAYPM
+    FloatingPoint Double VAYPA
+    FloatingPoint Double VBYPM
+    FloatingPoint Double VBYPA
+    FloatingPoint Double VCYPM
+    FloatingPoint Double VCYPA
+    FloatingPoint Double VAZPM
+    FloatingPoint Double VAZPA
+    FloatingPoint Double VBZPM
+    FloatingPoint Double VBZPA
+    FloatingPoint Double VCZPM
+    FloatingPoint Double VCZPA
+}
+
+category SEL421
+Outputs {
+    FloatingPoint Double P1
+    FloatingPoint Double P2
+    FloatingPoint Double P3
+    FloatingPoint Double P4
+    FloatingPoint Double P5
+    FloatingPoint Double P6
+    FloatingPoint Double Q1
+    FloatingPoint Double Q2
+    FloatingPoint Double Q3
+    FloatingPoint Double Q4
+    FloatingPoint Double Q5
+    FloatingPoint Double Q6
+}
+

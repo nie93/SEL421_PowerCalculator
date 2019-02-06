@@ -1,0 +1,42 @@
+SEL421 Inputs SEL421_InputMapping {
+    IAWPM: PPA:105 
+    IAWPA: PPA:106 
+    IBWPM: PPA:107 
+    IBWPA: PPA:108 
+    ICWPM: PPA:109 
+    ICWPA: PPA:110 
+    IAXPM: PPA:111 
+    IAXPA: PPA:112 
+    IBXPM: PPA:113 
+    IBXPA: PPA:114 
+    ICXPM: PPA:115 
+    ICXPA: PPA:116 
+    VAYPM: PPA:93 
+    VAYPA: PPA:94 
+    VBYPM: PPA:95 
+    VBYPA: PPA:96 
+    VCYPM: PPA:97 
+    VCYPA: PPA:98 
+    VAZPM: PPA:99 
+    VAZPA: PPA:100 
+    VBZPM: PPA:101 
+    VBZPA: PPA:102 
+    VCZPM: PPA:103 
+    VCZPA: PPA:104 
+}
+
+SEL421 Outputs SEL421_OutputMapping {
+    P1: PPA:1 
+    Q1: PPA:2 
+    P2: PPA:3 
+    Q2: PPA:4 
+    P3: PPA:5 
+    Q3: PPA:6 
+    P4: PPA:7 
+    Q4: PPA:8 
+    P5: PPA:9 
+    Q5: PPA:10 
+    P6: PPA:11 
+    Q6: PPA:12 
+}
+

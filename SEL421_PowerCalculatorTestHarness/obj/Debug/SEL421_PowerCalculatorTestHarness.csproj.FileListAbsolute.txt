@@ -1,0 +1,11 @@
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\SEL421_PowerCalculatorTestHarness\obj\Debug\SEL421_PowerCalculatorTestHarness.csprojResolveAssemblyReference.cache
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\SEL421_PowerCalculatorTestHarness\obj\Debug\SEL421_PowerCalculator.Properties.Resources.resources
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\SEL421_PowerCalculatorTestHarness\obj\Debug\SEL421_PowerCalculatorTestHarness.csproj.GenerateResource.Cache
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\SEL421_PowerCalculatorTestHarness\obj\Debug\SEL421_PowerCalculatorTestHarness.csproj.CoreCompileInputs.cache
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\Deploy\Debug\TestHarness\Model\UserDefinedTypes.ecaidl
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\Deploy\Debug\TestHarness\Model\UserDefinedMappings.ecamap
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\Deploy\Debug\TestHarness\SEL421_PowerCalculatorTestHarness.exe.config
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\Deploy\Debug\TestHarness\SEL421_PowerCalculatorTestHarness.exe
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\Deploy\Debug\TestHarness\SEL421_PowerCalculatorTestHarness.pdb
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\SEL421_PowerCalculatorTestHarness\obj\Debug\SEL421_PowerCalculatorTestHarness.exe
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\SEL421_PowerCalculatorTestHarness\obj\Debug\SEL421_PowerCalculatorTestHarness.pdb

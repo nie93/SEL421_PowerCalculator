@@ -1,0 +1,13 @@
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\SEL421_PowerCalculatorService\obj\Debug\SEL421_PowerCalculatorService.csprojResolveAssemblyReference.cache
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\SEL421_PowerCalculatorService\obj\Debug\SEL421_PowerCalculatorService.DebugHost.resources
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\SEL421_PowerCalculatorService\obj\Debug\SEL421_PowerCalculatorService.Properties.Resources.resources
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\SEL421_PowerCalculatorService\obj\Debug\SEL421_PowerCalculatorService.ServiceHost.resources
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\SEL421_PowerCalculatorService\obj\Debug\SEL421_PowerCalculatorService.csproj.GenerateResource.Cache
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\SEL421_PowerCalculatorService\obj\Debug\SEL421_PowerCalculatorService.csproj.CoreCompileInputs.cache
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\Deploy\Debug\Service\Model\UserDefinedTypes.ecaidl
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\Deploy\Debug\Service\Model\UserDefinedMappings.ecamap
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\Deploy\Debug\Service\SEL421_PowerCalculatorService.exe.config
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\Deploy\Debug\Service\SEL421_PowerCalculatorService.exe
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\Deploy\Debug\Service\SEL421_PowerCalculatorService.pdb
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\SEL421_PowerCalculatorService\obj\Debug\SEL421_PowerCalculatorService.exe
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\SEL421_PowerCalculatorService\obj\Debug\SEL421_PowerCalculatorService.pdb

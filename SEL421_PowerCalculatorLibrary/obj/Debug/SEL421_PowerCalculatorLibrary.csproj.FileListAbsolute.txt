@@ -1,0 +1,8 @@
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\SEL421_PowerCalculatorLibrary\obj\Debug\SEL421_PowerCalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\Deploy\Debug\Model\UserDefinedTypes.ecaidl
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\Deploy\Debug\Model\UserDefinedMappings.ecamap
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\Deploy\Debug\SEL421_PowerCalculatorLibrary.dll
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\Deploy\Debug\SEL421_PowerCalculatorLibrary.pdb
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\SEL421_PowerCalculatorLibrary\obj\Debug\SEL421_PowerCalculatorLibrary.dll
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\SEL421_PowerCalculatorLibrary\obj\Debug\SEL421_PowerCalculatorLibrary.pdb
+C:\Users\niezj\Documents\openECA Projects\SEL421_PowerCalculator\SEL421_PowerCalculatorLibrary\obj\Debug\SEL421_PowerCalculatorLibrary.csprojResolveAssemblyReference.cache
